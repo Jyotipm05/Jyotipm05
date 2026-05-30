@@ -50,8 +50,6 @@ I am a budding tech professional and undergraduate at IIT Kharagpur, passionate 
 <p align="left">
   <img src="https://img.shields.io/github/followers/jyotip-m05?style=for-the-badge&logo=github&color=2ea44f&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/jyotip-m05?style=for-the-badge&logo=github&color=e3b341&label=Total%20Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/jyotip-m05?style=for-the-badge&logo=github&color=316ad6&label=Repositories" alt="Repositories" />
-  <img src="https://wakatime.com/share/@YOUR_ID/YOUR_CHART_ID.svg" alt="WakaTime Language Chart" />
 </p>
 <p align="center">
   <!-- GitHub Streak Stats (Highly stable and looks great) -->
