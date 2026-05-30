@@ -48,12 +48,16 @@ I am a budding tech professional and undergraduate at IIT Kharagpur, passionate 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/jyotip-m05">
-    <img src="https://github-readme-stats.vercel.app/api?username=jyotip-m05&show_icons=true&theme=radical&hide_border=true" alt="Jyotipriya's GitHub Stats" />
-  </a>
-  <a href="https://github.com/jyotip-m05">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotip-m05&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+  <!-- GitHub Readme Stats (Alternative stable deployment) -->
+  <img src="https://github-readme-stats-six-sigma.vercel.app/api?username=jyotip-m05&show_icons=true&theme=radical&hide_border=true" alt="Jyotipriya's GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-six-sigma.vercel.app/api/top-langs/?username=jyotip-m05&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats (Highly stable and looks great) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotip-m05&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
