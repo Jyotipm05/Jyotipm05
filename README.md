@@ -1,4 +1,4 @@
-# Hi there, I'm Jyotipriya Mandal 👋
+# Hi there, I'm Jyotipriya Mondal 👋
 
 ### 👨‍💻 Software Developer | 3D/Game Dev Enthusiast | ML Learner
 
