@@ -16,9 +16,11 @@ I am a budding tech professional and undergraduate at IIT Kharagpur, passionate 
 
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 </p>
 
 **Web Development (Frontend, Backend & Databases)**
@@ -41,19 +43,22 @@ I am a budding tech professional and undergraduate at IIT Kharagpur, passionate 
 
 ### 🚀 Featured Projects
 
-* **Black Shores Server:** A scalable, high-performance backend server architecture built entirely in C++ utilizing the Drogon framework, Winsock2, and custom network protocol implementation.
+* **Black Shores Server:** A scalable, high-performance backend server architecture built entirely in C++ utilizing the Drogon framework.
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/jyotip-m05?style=for-the-badge&logo=github&color=2ea44f&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/jyotip-m05?style=for-the-badge&logo=github&color=e3b341&label=Total%20Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Jyotipm05?style=for-the-badge&logo=github&color=2ea44f&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Jyotipm05?style=for-the-badge&logo=github&color=e3b341&label=Total%20Stars" alt="Stars" />
 </p>
 <p align="center">
-  <!-- GitHub Streak Stats (Highly stable and looks great) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotip-m05&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotipm05&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+
 </p>
 
 ---
