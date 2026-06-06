@@ -4,7 +4,7 @@
 
 I am a budding tech professional and undergraduate at IIT Kharagpur, passionate about bridging the gap between high-performance backend systems, engaging front-end experiences, and 3D design. Whether I'm optimizing C++ server architecture, designing AR world-meshes, or diving into competitive programming, I love tackling complex technical challenges.
 
-* 🔭 **Currently building:** **Nexus** — a multi-purpose C++ backend framework using ASIO.
+* 🔭 **Currently building:** **WaveX** — a multi-purpose C++ backend framework based on ASIO lib.
 * 🌱 **Currently studying:** Machine Learning (Neural Networks, Bayesian Decision Theory) and mastering DSA.
 * 🎨 **Creative side:** Experienced in 3D modeling, AR (Lens Studio), and previously served as a Graphics Designer for the Computer Graphics Society (CGS).
 * 📈 **Business acumen:** Analyzed EV startup business models during my market research stint at Finlatics.
