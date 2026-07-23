@@ -53,12 +53,16 @@ I am a budding tech professional and undergraduate at IIT Kharagpur, passionate 
   <img src="https://img.shields.io/github/followers/Jyotipm05?style=for-the-badge&logo=github&color=2ea44f&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Jyotipm05?style=for-the-badge&logo=github&color=e3b341&label=Total%20Stars" alt="Stars" />
 </p>
+
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotipm05&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jyotipm05&show_icons=true&theme=nightowl&count_private=true" alt="koko" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jyotipm05&layout=compact&langs_count=8&theme=nightowl" alt="koko" />
 </p>
 
 ---
